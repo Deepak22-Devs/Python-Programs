@@ -1,0 +1,16 @@
+sentence = []
+i1 = input("Enter your sentence: ")
+sentence.append(i1)
+li = []
+no1 = i1.count("a")
+li.append(no1)
+no2 = i1.count("e")
+li.append(no2)
+no3 = i1.count("i")
+li.append(no3)
+no4 = i1.count("o")
+li.append(no4)
+no5 = i1.count("u")
+li.append(no5)
+print(sum(li))
+print(sentence.count())

@@ -1,0 +1,11 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+Course = input("Enter your Course")
+print (f"name: {name}")
+print(f"Age: {age}")
+print(f"Course: {Course}")
+
+a = input("a is: ")
+b = input("b is: ")
+print(f"a = {b}")
+print(f"a = {a}")

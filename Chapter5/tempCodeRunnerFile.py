@@ -1,0 +1,1 @@
+"Enetr your word you want to tarsnlate: "
