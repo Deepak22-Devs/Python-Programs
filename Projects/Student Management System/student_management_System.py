@@ -1,7 +1,7 @@
 student = []
 
 def menu():
-    print()"===== MENU =====")
+    print("===== MENU =====")
     print("1. Add Student")
     print("2. Show Students")
     print("3. Search Student")
@@ -97,3 +97,4 @@ while True:
 
     else:
         print("Invalid choice.")
+        
